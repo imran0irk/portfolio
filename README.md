@@ -23,3 +23,4 @@ You can open `index.html` directly in your browser, or run a local server:
 ### Option A (Python)
 ```bash
 python -m http.server 8000
+
