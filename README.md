@@ -6,10 +6,6 @@ This repository contains my personal portfolio website (a simple, responsive one
 If you’re using GitHub Pages, it will usually be available at:
 `https://imran0irk.github.io/portfolio/`
 
-## Built with
-- HTML / CSS / JavaScript (static site)
-- jQuery (for smooth scrolling + UI behavior)
-- **Miniport** template by **HTML5 UP**
 
 ## Project structure
 - `index.html` — main website page
